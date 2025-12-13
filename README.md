@@ -18,7 +18,7 @@ This is an intelligent liquidity pool (LP) management tool designed for Solana D
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-repo/eliza-lp-manager.git
+git clone https://github.com/sabnova/eliza-lp-manager.git
 cd eliza-lp-manager
 npm install
 ```
