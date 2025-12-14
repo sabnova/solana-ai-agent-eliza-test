@@ -43,4 +43,4 @@ eliza restart --strategy=new-strategy.json
 ```
 
 ## Contact
-Telegram | [Sabonis](https://t.me/sabonis_24)
+Telegram | [Sabonis](https://t.me/sabnova24)
